@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -p .. -blk -l
+ls -a ls -p lsblk ls -l
