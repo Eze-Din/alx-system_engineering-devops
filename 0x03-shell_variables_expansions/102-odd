@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^[0-9]*[13579]$" FILE > oddsfile.txt
+cat -n | grep [13579][[:space:]] | tr -s ' ' | cut -f2
