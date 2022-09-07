@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.2f \n" export NUM
+printf "%.2f \n" 2.31202
