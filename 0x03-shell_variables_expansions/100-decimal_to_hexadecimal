@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%x\n" 34
+printf "%x\n" 16
