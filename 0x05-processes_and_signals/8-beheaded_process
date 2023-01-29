@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# terminating a process with kill command which will not be stop by trap
+kill -9 "$(pgrep -f "./7-highlander")"

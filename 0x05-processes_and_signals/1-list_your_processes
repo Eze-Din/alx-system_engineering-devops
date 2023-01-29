@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# prints list of running process including tty
+ps -auxf
